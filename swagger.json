@@ -3,8 +3,19 @@
     "info": {
       "title": "Paper Company",
       "version": "1.0.0",
-      "description": "Witaj w repozytorium Systemu ERP dla Papier Company - zainspirowanego przez kultowy serial \"The Office\". Nasz system jest zaprojektowany, aby wspierać i optymalizować kluczowe procesy biznesowe w firmie zajmującej się dystrybucją papieru, od zarządzania zapasami po finanse i księgowość."
+      "description": "API Documentation for Paper Company application.",
+      "termsOfService": "https://www.papercompany-example.com/terms",
+      "contact": {
+        "name": "Paper Company Support",
+        "url": "https://www.papercompany-example.com/support",
+        "email": "support-example@papercompany.com"
+      },
+      "license": {
+        "name": "example 2.0",
+        "url": "https://www.example.org/licenses/LICENSE-2.0.html"
+      }
     },
+    
     "paths": {
       "/forgot": {
         "post": {
