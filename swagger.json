@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Paper Company",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Welcome to the ERP System API for Paper Company, inspired by the iconic TV show \"The Office.\" This system is designed to support and optimize key business processes within a paper distribution company, from inventory management to finance and accounting."
   },
   "paths": {
